@@ -36,9 +36,8 @@ Example how to run the it from the terminal:
 ```
 
 Follow the terminal instructions and provide the source and destination cyber controller details.
-After the script finishes you can view the log file in the directory.
 
-The log file is:
+After the script finishes you can view the log file in the directory, the log file is:
 
 **copy_cyber_controller_objects.log**
 

@@ -136,7 +136,6 @@ def get_site_name_by_id(site_id, json_data):
 
 
 def main(src_cc_ip, src_cc_user, src_cc_password, dst_cc_ip, dst_cc_user, dst_cc_password, url_suffix):
-    logging.info('Starting the script.')
 
     src_session = login_cyber_controller(src_cc_ip, src_cc_user, src_cc_password)
 
@@ -239,6 +238,7 @@ def main(src_cc_ip, src_cc_user, src_cc_password, dst_cc_ip, dst_cc_user, dst_cc
 
 
 if __name__ == "__main__":
+    logging.info('Starting the script.')
     print("--- Source Cyber-Controller Details ---")
     src_cc_ip = input("Address: ")
     src_cc_user = input("Username: ")

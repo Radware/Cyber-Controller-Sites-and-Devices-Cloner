@@ -46,4 +46,4 @@ The log file is:
 * Defense Pro physical and virtual devices
 
 ## Radware KB ##
-https://radware.com
+Will be published soon.

@@ -10,8 +10,12 @@ This tool will copy all Cyber Controller objects (sites, Alteon devices, Defense
 
 ## Description ##
 The following script is provided to help with migration for organizations that want to copy sites and devices from a Cyber-Controller to another one.
+
 The tool is designed to copy Alteon devices and Defense-Pros.
+
 The tool will work for both physical and virtual devices.
+
+The tool will change the name of the root site if needed, for both “Physical Containers” and “Sites and Devices” sections.
 
 ## How To Use ##
 In order to use the script make sure you have installed python3.10 or above

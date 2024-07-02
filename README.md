@@ -29,6 +29,7 @@ Example how to get the files using git command:
 # cd Cyber-Controller-Sites-and-Devices-Cloner
 ```
 To execute the script, you can either double-click on the file or run it through the terminal.
+
 Example how to run the it from the terminal:
 ```
 python3.10 copy_cyber_controller_objects.py

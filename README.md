@@ -5,7 +5,7 @@ This tool will copy all Cyber Controller objects (sites, Alteon devices, Defense
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [Currently Supported](#currently-supported)
-- [Radware KB](#"Radware KB")
+- [Radware KB](#Radware-KB)
 
 ## Description ##
 The following script is provided to help with migration for organizations that want to copy sites and devices from a Cyber-Controller to another one.

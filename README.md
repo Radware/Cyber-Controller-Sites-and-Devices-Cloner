@@ -32,7 +32,7 @@ To execute the script, you can either double-click on the file or run it through
 
 Example how to run the it from the terminal:
 ```
-python3.10 copy_cyber_controller_objects.py
+# python3.10 copy_cyber_controller_objects.py
 ```
 
 Follow the terminal instructions and provide the source and destination cyber controller details.

@@ -5,7 +5,7 @@ This tool will copy all Cyber Controller objects (sites, Alteon devices, Defense
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [Currently Supported](#currently-supported)
-- [Radware KB](#Radware KB)
+- [Radware KB](#"Radware KB")
 
 ## Description ##
 The following script is provided to help with migration for organizations that want to copy sites and devices from a Cyber-Controller to another one.
@@ -23,12 +23,16 @@ The script uses the following modules:
 * getpass
 * logging
 
-**git clone https://github.com/Radware/Cyber-Controller-Sites-and-Devices-Cloner.git**
-**cd Cyber-Controller-Sites-and-Devices-Cloner**
-
+Example how to get the files using git command:
+```
+# git clone https://github.com/Radware/Cyber-Controller-Sites-and-Devices-Cloner.git
+# cd Cyber-Controller-Sites-and-Devices-Cloner
+```
 To execute the script, you can either double-click on the file or run it through the terminal.
-To run it from the terminal, type the following command:
-**python3.10 copy_cyber_controller_objects.py**
+Example hoe to run the it from the terminal:
+```
+python3.10 copy_cyber_controller_objects.py
+```
 
 Follow the terminal instructions and provide the source and destination cyber controller details.
 After the script finishes you can view the log file in the directory.

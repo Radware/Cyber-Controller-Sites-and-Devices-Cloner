@@ -41,9 +41,9 @@ The log file is:
 **copy_cyber_controller_objects.log**
 
 ## Currently Supported ##
-* Sites
-* Alteon physical and virtual devices
-* Defense Pro physical and virtual devices
+* Site objects
+* Physical and virtual Alteon devices
+* Physical and virtual Defense-Pro devices
 
 ## Radware KB ##
 Will be published soon.

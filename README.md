@@ -21,8 +21,8 @@ The tool changes the name of the root site if needed for both the Physical Conta
 ## How To Use ##
 Verify that Python3.10 or later is installed on your computer.
 The script uses the following modules:
-* time
 * requests
+* time
 * urllib3
 * json
 * os

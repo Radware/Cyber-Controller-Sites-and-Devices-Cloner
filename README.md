@@ -9,7 +9,7 @@ This tool will copy all Cyber Controller objects (sites, Alteon devices, Defense
 - [Disclaimer](#Disclaimer)
 
 ## Description ##
-The script described in this Technical Guide is provided to help with migration for organizations that want to copy sites and devices from a Cyber-Controller instance to another one.
+The script described is provided to help with migration for organizations that want to copy sites and devices from a Cyber-Controller instance to another one.
 
 The tool is designed to copy Alteon and DefensePro devices.
 

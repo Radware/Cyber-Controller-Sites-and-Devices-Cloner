@@ -15,7 +15,7 @@ The tool is designed to copy Alteon and DefensePro devices.
 
 The tool works for both physical and virtual devices.
 
-The tool changes the name of the root site if needed for both the Physical Containers and Sites and Devices sections.
+The tool changes the name of the root site if needed for both the **Physical Containers** and **Sites and Devices sections**.
 
 
 ## How To Use ##

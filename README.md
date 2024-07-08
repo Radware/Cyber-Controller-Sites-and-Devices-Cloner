@@ -45,7 +45,7 @@ Follow the terminal instructions and provide the source and destination cyber co
 
 After the script finishes running, you can refer the log file **copy_cyber_controller_objects.log** in the current directory
 
-Refresh the Cyber-Controller screen and verify that the objects are there.
+Refresh the destination Cyber-Controller screen and verify that the objects are there.
 
 ## Currently Supported ##
 * Site objects

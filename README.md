@@ -53,7 +53,7 @@ Refresh the destination Cyber-Controller screen and verify that the objects are 
 * Physical and virtual Defense-Pro devices
 
 ## Radware KB ##
-Will be published soon.
+https://support.radware.com/app/answers/answer_view/a_id/1052733
 
 ## Disclaimer ##
 There is no warranty, expressed or implied, associated with this product. Use at your own risk.

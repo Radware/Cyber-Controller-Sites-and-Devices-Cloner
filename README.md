@@ -3,6 +3,7 @@ This tool will copy all Cyber Controller objects (sites, Alteon devices, Defense
 
 ## Table Of Contents ###
 - [Description](#description)
+- [Pre Requisites](#Pre-Requisites)
 - [How To Use](#how-to-use)
 - [Currently Supported](#currently-supported)
 - [Radware KB](#Radware-KB)
@@ -17,6 +18,10 @@ The tool works for both physical and virtual devices.
 
 The tool changes the name of the root site if needed for both the **Physical Containers** and **Sites and Devices sections**.
 
+The tool is tested on both Cyber Controller and Vision products, with various versions from Vision 4.85 to Cyber Controller 10.5.0.
+
+## Pre Requisites ##
+The RTU license on the destination Cyber Controller should be able to support the additional devices from the source Cyber Controller.
 
 ## How To Use ##
 Verify that Python3.10 or later is installed on your computer.
@@ -29,7 +34,7 @@ The script uses the following modules:
 * getpass
 * logging
 
-Example how to get the files using git command:
+Get the python file, example how to get that using git command:
 ```
 # git clone https://github.com/Radware/Cyber-Controller-Sites-and-Devices-Cloner.git
 # cd Cyber-Controller-Sites-and-Devices-Cloner
